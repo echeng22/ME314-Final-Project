@@ -36,9 +36,14 @@ $$
 Plugging in the velocities after impact into the equations of motion of the system will then describe how the system will continue to behave after impact.
 
 The video image links below shows the simulation of this system slowed down so impact and changes in the system are seen. All video and coding done for this project was done in Mathematica. Source code and write up can be found at this [link]{:target="_blank"}.
+<div style="text-align:center">
+    <a href="http://www.youtube.com/watch?v=Bayp_y6na8A" target="_blank">
+        <img src="http://img.youtube.com/vi/Bayp_y6na8A/0.jpg" alt="Full View of Project" align="middle"/>
+    </a>
+</div>
+<div style="text-align:center">
+    <a href="http://www.youtube.com/watch?v=BokumHZa_Mo" target="_blank">
+    <img src="http://img.youtube.com/vi/BokumHZa_Mo/0.jpg" alt="Closer View of Project"/>
+    </a>
+</div>
 
-{: .center}
-[![Full View of Project](http://img.youtube.com/vi/Bayp_y6na8A/0.jpg)](http://www.youtube.com/watch?v=Bayp_y6na8A "Full View of Project"){:target="_blank"}
-
-{: .center}
-[![Closer View of Project](http://img.youtube.com/vi/BokumHZa_Mo/0.jpg)](http://www.youtube.com/watch?v=BokumHZa_Mo "Closer View of Project"){:target="_blank"}
